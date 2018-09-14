@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_index">
+    <sys_index action="INSERT_OR_UPDATE">
+        <col_name_string>u_request_type,u_what_needed,u_when_needed,short_description</col_name_string>
+        <index_col_name>78c005dbdb502300eb720181ca961975,dc7149dbdb502300eb720181ca9619d6,416ff89bdb502300eb720181ca9619d5,cde3e5749902130059a648f6b99797b0</index_col_name>
+        <logical_table_name>x_274170_needit_needit</logical_table_name>
+        <sys_class_name>sys_index</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-11 08:35:50</sys_created_on>
+        <sys_id>6189b8e0dba82300eb720181ca9619bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_274170_needit_needit</sys_name>
+        <sys_package display_value="NeedIt" source="x_274170_needit">6cf6f417db502300eb720181ca9619ba</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6cf6f417db502300eb720181ca9619ba</sys_scope>
+        <sys_update_name>sys_index_x_274170_needit_needit_u_request_type_u_what_needed_u_when_needed_short_description</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-11 08:35:50</sys_updated_on>
+        <table display_value="Needit" name="x_274170_needit_needit">26073c97db502300eb720181ca9619b8</table>
+        <unique_index>false</unique_index>
+    </sys_index>
+</record_update>

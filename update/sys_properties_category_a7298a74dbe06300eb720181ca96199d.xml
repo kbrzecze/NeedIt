@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>NeedIt Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-12 09:03:09</sys_created_on>
+        <sys_id>a7298a74dbe06300eb720181ca96199d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_274170_needit">6cf6f417db502300eb720181ca9619ba</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6cf6f417db502300eb720181ca9619ba</sys_scope>
+        <sys_update_name>sys_properties_category_a7298a74dbe06300eb720181ca96199d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-12 09:03:09</sys_updated_on>
+        <title><![CDATA[<p><strong><span style="background-color: #ff0000;">Add</span> a small image and the text of your choice. </strong><em>Apply the formatting of your choice such as bold or italics.</em></p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=a7298a74dbe06300eb720181ca96199d"/>
+</record_update>
