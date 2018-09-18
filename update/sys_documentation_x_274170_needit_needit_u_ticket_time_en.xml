@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_ticket_time" label="Ticket time" language="en" table="x_274170_needit_needit">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_ticket_time</element>
+            <help/>
+            <hint/>
+            <label>Ticket time</label>
+            <language>en</language>
+            <name>x_274170_needit_needit</name>
+            <plural>Ticket times</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-17 12:04:21</sys_created_on>
+            <sys_id>eec2e46edb602300eb720181ca96199f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Ticket time</sys_name>
+            <sys_package display_value="NeedIt" source="x_274170_needit">6cf6f417db502300eb720181ca9619ba</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6cf6f417db502300eb720181ca9619ba</sys_scope>
+            <sys_update_name>sys_documentation_x_274170_needit_needit_u_ticket_time_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-17 12:04:21</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

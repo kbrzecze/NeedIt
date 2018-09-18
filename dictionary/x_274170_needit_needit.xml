@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element audit="true" extends="task" label="Needit" max_length="40" name="x_274170_needit_needit" sizeclass="16" type="collection">
+        <element label="Assigned time" max_length="40" name="u_assigned_time" read_only="true" type="glide_date_time"/>
+        <element label="Close time" max_length="40" name="u_close_time" read_only="true" type="glide_date_time"/>
+        <element label="milisec" max_length="40" name="u_milisec" read_only="true" type="float"/>
         <element attributes="edge_encryption_enabled=true" label="Other" max_length="40" name="u_other" type="string"/>
         <element label="Requested for" mandatory="true" max_length="32" name="u_requested_for" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Requested for email" mandatory="true" max_length="40" name="u_requested_for_email" type="string"/>
@@ -12,6 +15,9 @@
                 <element label="Your Department Choce" sequence="3" value="your_choice"/>
             </choice>
         </element>
+        <element attributes="edge_encryption_enabled=true" label="Ticket time" max_length="40" name="u_string" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="New String" max_length="40" name="u_string_1" read_only="true" type="string"/>
+        <element label="Ticket time" max_length="40" name="u_ticket_time" read_only="true" type="glide_time"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="What needed" mandatory="true" max_length="40" name="u_what_needed" type="string">
             <choice>
                 <element label="Facilities 1" sequence="0" value="Facilities 1"/>
